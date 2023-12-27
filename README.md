@@ -1,1 +1,1 @@
-# SugarCare
+# WeCare
