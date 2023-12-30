@@ -60,7 +60,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
     This will launch the application on a local development server.
 
-9. Open your web browser and navigate to http://localhost:3000 to access the application.
+9. Open your web browser and navigate to http://localhost:5173 to access the application.
 
 ## Step 5: Database Setup
 
