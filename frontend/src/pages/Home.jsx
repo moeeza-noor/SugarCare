@@ -30,7 +30,7 @@ const Home = () => {
               We help patients live a healthy, longer life.
               </h1>
               <p className='text__para'>
-              Our mission goes beyond excellent medical care; we're committed to leading our patients towards comprehensive wellness and vitality. Our experienced team practices patient-focused care, offering personalized services for every individual's health needs. We provide everything from preventive medicine to advanced treatments and holistic strategies, covering both physical and mental health. At the forefront of medical research, we embrace innovative solutions to empower our patients towards optimal health and an improved quality of life. Join us in our pursuit of a healthier community, one patient at a time.
+              Our mission goes beyond excellent medical care; we are committed to leading our patients towards comprehensive wellness and vitality. Our experienced team practices patient-focused care, offering personalized services for every individual's health needs. By providing everything from preventive medicine to advanced treatments and holistic strategies, covering both physical and mental health. At the forefront of medical research, we embrace innovative solutions to empower our patients towards optimal health and an improved quality of life. Join us in our pursuit of a healthier community, one patient at a time.
               </p>
               <button className='btn'>Request an Appointment</button>
           </div>
