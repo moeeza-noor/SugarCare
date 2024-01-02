@@ -48,7 +48,7 @@ To set up the project locally, follow these steps:
 
     `npm start`
 
-    This will launch the application on `localhost:[port]`.
+    This will launch the application on `localhost:5173`.
 
 Usage
 -----
