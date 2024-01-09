@@ -1,7 +1,6 @@
 # WeCare
 
 Moeeza Noor 
-UMAR ABDUL REHMAN 
 
 Overview
 --------
